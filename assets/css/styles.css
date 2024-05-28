@@ -1,0 +1,21 @@
+img {
+  position: static;
+  align-items: center;
+  align-content: center;
+}
+
+#Icon {
+  cursor: pointer;
+}
+
+.div-login {
+  position: absolute;
+  top: 40%;
+}
+
+#Log {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+}
+
